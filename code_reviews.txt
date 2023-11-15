@@ -1,0 +1,4 @@
+One concept similar between the companies are that they focus on having regular feedback of the code being pushed. Another concept is that both companies focus on avoiding major changes to the code and prefer smaller changes. 
+
+One thing done differently is that Microsoft uses "emoji" code to convey their thoughts or confusions during a code review. Yelp places emphasis on having external reviewers whereas Microsoft emphasizes having yourself be your biggest critic. 
+
